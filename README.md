@@ -8,10 +8,18 @@ I'm currently learning React
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SureshBabuchinnam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SureshBabuchinnam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/Sureshbabuchinnam/Sureshbabuchinnam/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SureshBabuchinnam&icon=4&color=1)](https://visitcount.itsvg.in)
+
+
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
